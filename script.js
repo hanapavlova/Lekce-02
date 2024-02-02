@@ -1,1 +1,1 @@
-document.body.innerHTML = "<p> Ahoj Verunko!!!</p>";
+document.body.innerHTML += "<p> Ahoj Verunko!!!</p>";
