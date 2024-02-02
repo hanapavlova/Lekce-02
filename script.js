@@ -1,4 +1,4 @@
-document.body.innerHTML += "<p> Ahoj Verunko!!!</p>";
+//document.body.innerHTML += "<p> Ahoj Verunko!!!</p>";
 
 //1. úkol
 let cislo = Math.floor((Math.random()*6)+1);
